@@ -8,6 +8,10 @@ BASIC
   
   Let's say you found a cool piece of code, but don't want to copy it? No problem, the program is trying to solve this problem. In theory, you just have to screenshot the piece of program code you need and this code should be executed!
   
+Practical goal:
+<br>
+For example, I would like to use the program at the programming competition, because usually the program code that is there is presented as a picture
+  
 </p>
 
 USAGE HOWTO
