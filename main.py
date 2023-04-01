@@ -1,5 +1,4 @@
 import os
-import time
 
 import pytesseract
 from PIL import Image, ImageEnhance, ImageFilter, ImageGrab
