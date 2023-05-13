@@ -2,7 +2,6 @@ import os
 
 import pytesseract
 from PIL import Image, ImageEnhance, ImageFilter, ImageGrab
-import autopep8
 
 
 def main():
@@ -24,9 +23,6 @@ def main():
     def run(text):
         with open('photo_main.py', 'w', encoding='utf-8') as file:
             file.write(text)
-
-        # os.system(
-        #     'autopep8 --in-place --aggressive --aggressive photo_main.py')  # pep8, but questioning whether to use this
         os.system('photo_main.py')  # run code
 
         print(
